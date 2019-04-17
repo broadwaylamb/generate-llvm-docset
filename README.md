@@ -28,7 +28,7 @@ optional arguments:
                         Only generate HTML documentation, without Dash .docset
                         file
   -q, --quiet           Suppress the output
-  -v, --verbose         Shot output of doxygen and other tools
+  -v, --verbose         Show output of doxygen and other tools
 
 ```
 
