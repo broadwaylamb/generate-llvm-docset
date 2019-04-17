@@ -1,6 +1,6 @@
 # generate-llvm-docset
 
-A Python script for generating Dash docset for LLVM API.
+A Python 3 script for generating [Dash](https://kapeli.com/dash) docset for LLVM API.
 
 ### Usage
 
