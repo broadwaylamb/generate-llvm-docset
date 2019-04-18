@@ -2,6 +2,8 @@
 
 A Python 3 script for generating [Dash](https://kapeli.com/dash) docset for LLVM API.
 
+![Screenshot](.github/screenshot.png)
+
 ### Usage
 
 TL;DR:
