@@ -149,7 +149,7 @@ class DocSetGenerator:
                 self.log('Using existing tarball {}...'.format(tarball), 'cyan')
                 return tarball
 
-        tarball_url = 'http://releases.llvm.org/{}/{}'.format(self.llvm_version, tarball)
+        tarball_url = 'https://github.com/llvm/llvm-project/releases/download/llvmorg-{}/{}'.format(self.llvm_version, tarball)
 
         self.log('Downloading {} from {}...'.format(tarball, tarball_url), 'magenta')
 
